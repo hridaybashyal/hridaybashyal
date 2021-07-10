@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my homepage, I am Hriday Bashyal! 👋
 
 <!--
 **hridaybashyal/hridaybashyal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
