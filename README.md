@@ -1,6 +1,6 @@
 ### Welcome to my homepage! 👋
 
-- 💬 I'm a 20 year old Computer Science bachelor student at UTS.
+- 💬 
 - 🔭 
 - 🌱 
 - 👯 
