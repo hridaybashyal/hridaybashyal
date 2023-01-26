@@ -8,6 +8,9 @@ Hi there, 👋 I'm Hriday. My interest within the field of technology lies in so
 - ✔️ Completed Projects: GameKiosk, ASDTradie
 - 🚧 Current Projects: N/A
 
+<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hridaybashyal&layout=compact" alt="hridaybashyal" /></p>
+<p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hridaybashyal&show_icons=true" alt="hridaybashyal" /></p>
+
 
 ## Tech Stack
 👨‍💻 JavaScript | Python | Java | HTML | CSS
