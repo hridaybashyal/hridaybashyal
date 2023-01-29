@@ -1,9 +1,9 @@
 ### Welcome to my GitHub! 👋
 
-Hi there, 👋 I'm Hriday. My interest within the field of technology lies in software engineering / full stack development along with data analysis and artificial intelligence. Always looking for opportunities to learn and keep myself busy with all the technology tools available and create some cool things. Currently looking for a role within my interests to attain work experience and also apply some of my project, research and leadership skills.
+Hi there, 👋 I'm Hriday. My interest within the field of technology lies in software engineering / full stack development along with data analysis and artificial intelligence. Always looking for opportunities to learn and keep myself busy with all the technology tools available and create some cool things. Currently seeking for a role within my interests to attain work experience and also apply some of my project, research and leadership skills.
 
-- 🎓 Pursing Bachelor of Computing Science (Honours) @ UTS, Fourth Year Student
-- 💼 Casual tutor at local tutoring centre (Programming, Maths, Science)
+- 🎓 Pursuing Bachelor of Computing Science (Honours) @ UTS, Fourth Year Student
+- 💼 Private / Casual tutor at local tutoring centre (Programming, Maths, Science)
 - 📕 Currently learning development from App Academy Open, CS50, MOOC.fi, etc.
 - ✔️ Completed Projects: GameKiosk, ASDTradie
 - 🚧 Current Projects: N/A
@@ -16,7 +16,7 @@ Hi there, 👋 I'm Hriday. My interest within the field of technology lies in so
 🛢️  PostgreSQL  
 
 ## Hobbies / Extracurricular
-🎵 Singing (Pop Songs) | Guitar
+🎵 Singing (Pop Songs) | Guitar (Acoustic)
 
 ⚽ Footballer | Tennis | Cricket
 
